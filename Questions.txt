@@ -1,5 +1,3 @@
 Q1 Create a measure which gives us the names of the employee(s) who has exceeded the target.
-
-Q2 Show by much % did the revenue has crossed the target. eg if revenue is 150 and target is 100 so the revenue is 50% more than target.
-
-Q3 Show trend in revenue & target Quarter-on-Quarter / Year-On-Year.
+Q2 Show by how much % has the revenue crossed the target (for each employee wh has crossed the target). eg: if revenue is 150 and target is 100 so the revenue is 50% more than target.
+Q3 Show trend in revenue & target Quarter-on-Quarter
